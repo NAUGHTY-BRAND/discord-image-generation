@@ -1,6 +1,8 @@
 <a href="https://nodei.co/npm/discord-image-generation/"><img src="https://nodei.co/npm/discord-image-generation.png?downloads=true&downloadRank=true&stars=true"></a>
 
-# discord-image-generation
+
+## dig-faris
+## Updated for of discord-image-generation with latest canva and jimp
 
 A powerfull module that allow you to generate awesome images.
 
@@ -305,6 +307,9 @@ bot.login("super_secret_token")
 ![Color](https://imgur.com/40tMwfe.png)
 
 # Changelog 
+
+## v1.5.0
+- Updated Packages And compatibility
 
 ## v1.4.8
 - Typings added, thanks to https://github.com/Lioness100
