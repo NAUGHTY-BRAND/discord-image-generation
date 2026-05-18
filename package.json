@@ -1,6 +1,6 @@
 {
   "name": "dig-faris",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "discord-image-generation is a powerful module that allows you to generate awesome images. Updated by Faris.",
   "main": "src/index.js",
   "types": "typings/index.d.ts",
@@ -45,6 +45,8 @@
     "jimp": "^1.6.1"
   },
   "overrides": {
-    "canvas": "^3.2.0"
+    "canvas": "^3.2.0",
+    "gifencoder/canvas": "^3.2.0",
+    "jimp": "^1.6.1"
   }
 }
