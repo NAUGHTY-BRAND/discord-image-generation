@@ -1,4 +1,4 @@
-<a href="https://nodei.co/npm/dig-faris/"><img src="https://nodei.co/npm/discord-image-generation.png?downloads=true&downloadRank=true&stars=true"></a>
+<a href="https://nodei.co/npm/dig-faris/"><img src="https://nodei.co/npm/dig-faris.png?downloads=true&downloadRank=true&stars=true"></a>
 
 
 ## dig-faris
